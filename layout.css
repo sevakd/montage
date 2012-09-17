@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Happy+Monkey);
+
+h1{
+  margin: 40px;
+  padding: 15px;
+  padding-left: 20px;
+  font-size: 42px;         
+  font-family: 'Happy Monkey', cursive;
+  color: #32544C;
+}
+
+#visout{
+  margin: 40px;
+  padding: 15px;
+  padding-left: 25px;
+}
